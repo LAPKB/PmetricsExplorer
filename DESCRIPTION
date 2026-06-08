@@ -1,0 +1,18 @@
+Package: PmetricsExplorer
+Title: Pmetrics Simulation Explorer
+Version: 0.0.0.9000
+Authors@R: 
+    person("Michael", "Neely", , "mneely@usc.edu", role = c("aut", "cre"))
+Description: Standalone golem Shiny app to rapidly simulate from a Pmetrics
+    model and explore parameter ranges interactively.
+License: GPL (>= 3)
+Imports:
+    bslib,
+    config,
+    golem,
+    plotly,
+    shiny,
+    utils
+Config/roxygen2/version: 8.0.0
+Encoding: UTF-8
+LazyData: true

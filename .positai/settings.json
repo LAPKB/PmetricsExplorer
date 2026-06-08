@@ -1,0 +1,14 @@
+{
+  "permission": {
+    "bash": {
+      "mkdir *": "allow"
+    },
+    "edit": {
+      "*.R": "allow",
+      "*.yml": "allow"
+    },
+    "executeCode": {
+      "*": "allow"
+    }
+  }
+}
