@@ -1,7 +1,12 @@
 {
   "permission": {
     "bash": {
-      "mkdir *": "allow"
+      "mkdir *": "allow",
+      "cd *": "allow",
+      "Rscript *": "allow",
+      "python3 *": "allow",
+      "head *": "allow",
+      "*": "allow"
     },
     "edit": {
       "*.R": "allow",
