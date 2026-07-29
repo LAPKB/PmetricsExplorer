@@ -1,6 +1,6 @@
 Package: PmetricsExplorer
 Title: Pmetrics Simulation Explorer
-Version: 0.0.0.9000
+Version: 1.0.0
 Authors@R: 
     person("Michael", "Neely", , "mneely@usc.edu", role = c("aut", "cre"))
 Description: Standalone golem Shiny app to rapidly simulate from a Pmetrics
